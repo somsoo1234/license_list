@@ -2,6 +2,10 @@
 	"version":"1.0",
 	"Array" : [
 		{
+			"ip":"147.50.229.54",
+			"host":"Cougar City"
+		},
+		{
 			"ip":"147.50.252.224",
 			"host":"xpboy"
 		},
